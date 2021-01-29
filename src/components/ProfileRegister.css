@@ -1,0 +1,35 @@
+
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+#sampleDropdownMenu {
+    width: 100%;
+    background-color: #ce4be8 !important;
+}
+
+.dropdown-menu.show{
+    width: 100% !important;
+}
+
+.btn.btn-primary.submit {
+    width: 150px !important;
+}
+
+.ql-editor.ql-blank {
+    height: 200px;
+}
+
+@media (min-width : 992px){
+    #profileWrap{
+        margin-top: 12%;
+    }
+}

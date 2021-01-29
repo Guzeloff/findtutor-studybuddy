@@ -1,0 +1,5 @@
+.alert.alert-light {
+    font-size: 15px;
+    background-color:rgba(73, 134, 252, 0.1);
+    color:rgba(73, 134, 252, 0.7);
+}

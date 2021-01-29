@@ -1,0 +1,8 @@
+.closeButton {
+  width: 10% !important;
+  position: absolute;
+  left: 85%;
+}
+.askQuestion {
+  text-align: center !important;
+}

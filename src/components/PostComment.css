@@ -1,0 +1,9 @@
+.dialog-title > h2 {
+  color: lightgrey !important;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.addcomment-button {
+  margin-top: 1rem !important;
+}

@@ -1,0 +1,20 @@
+.commentImage {
+  max-width: 100% !important;
+  height: 50px !important;
+  object-fit: cover !important;
+  border-radius: 50%;
+}
+.comment {
+  word-wrap: break-word;
+}
+.commentDetails {
+}
+
+@media (max-width: 768px) {
+  .commentImage {
+    height: 30px !important;
+  }
+  .commentImage {
+    direction: row;
+  }
+}

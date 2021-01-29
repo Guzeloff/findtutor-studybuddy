@@ -1,0 +1,30 @@
+.profileWrapper {
+  padding: 20px;
+}
+.profileUser {
+  text-align: center;
+}
+.profile-image {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  max-width: 100%;
+  border-radius: 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+hr {
+  border: "none";
+  margin-top: 10px;
+}
+
+.profile-details-typo {
+  font-weight: 100;
+  margin-bottom: 5px !important;
+  font-size: 0.9rem;
+}
+
+.profile-details {
+  word-wrap: break-word;
+}

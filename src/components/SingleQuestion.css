@@ -1,0 +1,35 @@
+.card {
+  flex-direction: row;
+  display: flex;
+  text-align: left;
+  margin-bottom: 10px;
+}
+.cardContent {
+  padding: 25px !important;
+  object-fit: cover !important;
+  width: 100%;
+}
+
+.cardImg {
+  min-width: 120px !important;
+  max-width: 120px !important;
+  margin: 25px;
+  width: 50%;
+}
+.buttonWrap {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 1.2rem;
+}
+
+.questionCategory {
+  margin-top: 1rem !important;
+  font-weight: 300 !important;
+  font-size: 0.9rem !important;
+}
+
+@media (max-width: 768px) {
+  .cardImg {
+    display: none !important;
+  }
+}
