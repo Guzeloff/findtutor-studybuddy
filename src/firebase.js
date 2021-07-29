@@ -1,7 +1,7 @@
 import firebase from "firebase";
 
 var firebaseApp = firebase.initializeApp({
-  apiKey: "AIzaSyC_Hw3z2iuIUHDgI4bBtQU60zlaJCX44lQ",
+  apiKey:,
   authDomain: "find-tutor-studybuddy-e7179.firebaseapp.com",
   databaseURL: "https://find-tutor-studybuddy-e7179.firebaseio.com",
   projectId: "find-tutor-studybuddy-e7179",
